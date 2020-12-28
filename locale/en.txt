@@ -1,0 +1,54 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Huoneistot
+
+## Media
+
+### Subtitle
+panorama_92512859_8E1C_C686_41C5_BA9F9A9AC123.subtitle = testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi 
+panorama_BA5900FC_A852_4E11_41DC_1EB48DA1C852.subtitle = Perhekuntoutuskeskuksien tavoitteena on turvata lapsen kehitys yhdessä vanhempien ja sosiaalialan työntekijöiden kanssa.  \
+ \
+Perheen huoneiston viereisessä talossa työskentelevät esimerkiksi: \
+1. Sairaanhoitaja \
+2. Lasten ja nuorten erikoisohjaaja \
+3. Perhetyöntekijä \
+4. Sosiaalityöntekijä \
+5. Psykologi \
+6. Sosionomi
+
+### Title
+panorama_90F1FF8B_8E13_D99B_41D4_2A5F6A599DF4.label = alakerta aula 1b
+panorama_92510471_8E1C_4E87_41DD_DD735C30DA97.label = alakerta huone 3 1
+panorama_9251049F_8E1C_CFBB_41DC_3E15BFE397AE.label = etuovi_1a
+panorama_9251117F_8E1C_497A_41BC_77F89109578D.label = alakerta huone 1
+panorama_92512573_8E1C_4E8B_41DE_2BE70187F0D0.label = huoneisto makuuhuone 2
+panorama_92512859_8E1C_C686_41C5_BA9F9A9AC123.label = grillille_1a
+panorama_92512C00_8E1C_3E86_41E0_CCCACC3C5FEF.label = huoneisto makuuhuone 1
+panorama_92512E50_8E1C_FA86_41C5_48ACA9F8B6EB.label = grilli 1_a
+panorama_92513AEE_8E1C_7B9A_41B8_797047C1F182.label = alakerta huone 2
+panorama_92514AC8_8E1C_DB86_41D7_C7CD44882077.label = alakerta keittiö 2b
+panorama_92517270_8E1C_CA85_41E0_7C0B0A966D04.label = huoneisto eteis aula
+panorama_9251EDF1_8E1C_5986_41D8_B2C9C279C8B0.label = alakerta huone 3 2
+panorama_9251F116_8E1C_C68A_41C8_D96B75CD6EB1.label = alakerta keittiö 1c
+panorama_9251F752_8E1C_4A85_41C7_ED2681CE7246.label = alakerta huone 4
+panorama_92525BFE_8E1C_597A_41E0_9C876436954E.label = huoneisto vessa
+panorama_92528F20_8E1C_3A86_41C5_68492FA06862.label = piha_2_a
+panorama_9252A56C_8E1C_4E9E_41DD_2B247A2D9ECE.label = piha_1
+panorama_9252AF04_8E1C_5A8D_41CB_E97A0B15C9ED.label = huoneisto olohuone 1
+panorama_9252B8C8_8E1C_4785_41CB_4CC3474AF0D9.label = huoneisto olohuone 2
+panorama_9252DE7B_8E1C_3B7A_41D5_705125C1B519.label = alakerta aula 2
+panorama_9252E227_8E1C_4A8A_41A5_D6215E3BDD71.label = huoneisto olohuone 3
+panorama_92533BA0_8E1C_5986_41CA_8F7B40BEB916.label = yläkerta miitti 2
+panorama_925358D5_8E1D_C78E_41BA_709CF3F9858B.label = piha_3_b
+panorama_92535BE7_8E1D_F98A_41E0_69EFD8E29657.label = rappuset oikea
+panorama_92535E54_8E1D_DA8E_41B8_9A03F5A97400.label = ylä keittiö
+panorama_925392A8_8E1D_CB86_41DE_8897E4C03333.label = rappuset keski 1
+panorama_9253B527_8E1D_CE8B_41A1_388803184548.label = rappuset vasen
+panorama_9253B806_8E1D_C68A_41DD_D09D18D2709C.label = yläkerta aula 1a
+panorama_9253C1DB_8E1C_49BA_41E1_4FA698142B7E.label = yläkerta miitti 1a
+panorama_BA5900FC_A852_4E11_41DC_1EB48DA1C852.label = Intro01
