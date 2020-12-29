@@ -22,6 +22,7 @@ Perheen huoneiston viereisessä talossa työskentelevät esimerkiksi: \
 6. Sosionomi
 
 ### Title
+media_894320CB_AF70_88A3_41C2_58D1B13E8541.label = Blue_6
 panorama_90F1FF8B_8E13_D99B_41D4_2A5F6A599DF4.label = alakerta aula 1b
 panorama_92510471_8E1C_4E87_41DD_DD735C30DA97.label = alakerta huone 3 1
 panorama_9251049F_8E1C_CFBB_41DC_3E15BFE397AE.label = etuovi_1a
