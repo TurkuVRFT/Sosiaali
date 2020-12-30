@@ -9,18 +9,6 @@ tour.name = Huoneistot
 
 ## Media
 
-### Subtitle
-panorama_92512859_8E1C_C686_41C5_BA9F9A9AC123.subtitle = testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi testi 
-panorama_BA5900FC_A852_4E11_41DC_1EB48DA1C852.subtitle = Perhekuntoutuskeskuksien tavoitteena on turvata lapsen kehitys yhdessä vanhempien ja sosiaalialan työntekijöiden kanssa.  \
- \
-Perheen huoneiston viereisessä talossa työskentelevät esimerkiksi: \
-1. Sairaanhoitaja \
-2. Lasten ja nuorten erikoisohjaaja \
-3. Perhetyöntekijä \
-4. Sosiaalityöntekijä \
-5. Psykologi \
-6. Sosionomi
-
 ### Title
 media_894320CB_AF70_88A3_41C2_58D1B13E8541.label = Blue_6
 panorama_90F1FF8B_8E13_D99B_41D4_2A5F6A599DF4.label = alakerta aula 1b
