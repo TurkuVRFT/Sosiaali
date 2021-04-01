@@ -10,7 +10,7 @@ tour.name = VR FastTrack // Sosiaaliala
 ## Media
 
 ### Title
-media_0C6C5F26_15E9_CFA4_418B_631EE54A121E.label = Merikratos_intro
+media_BD644F75_8D2A_7A1F_41A4_B3A9F1D62FC0.label = Merikratos_intro
 panorama_00FD1B1E_1516_6E8B_4182_4842DD57F210.label = Takaisin aulaan
 panorama_01BB7ECF_1576_2788_41A3_5A0A482784B7.label = Työhuoneistoihin
 panorama_0650E282_153E_3E7B_41B4_2EFFBF9D4418.label = Asuinhuoneistosta_Ulos
@@ -48,10 +48,10 @@ HotspotPanoramaOverlayArea_0FCEC11A_15DF_F36C_41B0_D26FDD0C1B04.toolTip = Pieni 
 HotspotPanoramaOverlayArea_1B3E753D_14A6_EF23_419E_DD14B62AD40C.toolTip = Keittiö ja oleskelutila
 HotspotPanoramaOverlayArea_1BA874AB_157F_52AC_41B1_FA4975DB9BA1.toolTip = Ulos päärakennuksesta
 HotspotPanoramaOverlayArea_A1DD87D6_B4BF_2A5C_41D1_675609AFD510.toolTip = Hissi liikuntarajoitteisille
-HotspotPanoramaOverlayArea_C92330B9_DBDB_A092_41EB_7275F9911D5A.toolTip = Henkilökunnan tilat ja kokoustilat
+HotspotPanoramaOverlayArea_BADE508B_8D29_C60B_41D2_C86B8C81FCF7.toolTip = Asuinhuoneisto
+HotspotPanoramaOverlayArea_C92330B9_DBDB_A092_41EB_7275F9911D5A.toolTip = Lastensuojelun avopalveluiden tilat
 HotspotPanoramaOverlayArea_CA311709_DBE9_6175_41E5_5C1CEA4CC414.toolTip = Yläkertaan
 HotspotPanoramaOverlayArea_CA39BDC6_DBFA_A0FE_41DA_32B6B183D635.toolTip = Voit nyt palata eteisen kautta takaisin ulos.
-HotspotPanoramaOverlayArea_CB46838A_DBF9_A176_41C9_763BD5A74A29.toolTip = Asuinhuoneisto
 HotspotPanoramaOverlayArea_D23DF091_F04F_068E_41E0_E79F0FB78D19.toolTip = Takaisin eteiseen
 HotspotPanoramaOverlayArea_D267DB33_F0C1_1BF2_41E7_DC38545D1582.toolTip = Hissillä alakertaan
 HotspotPanoramaOverlayArea_D40AB2B8_DBEA_A093_41E0_BA5DA7343F08.toolTip = Perhetapaamishuone
